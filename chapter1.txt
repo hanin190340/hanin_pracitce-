@@ -1,9 +1,7 @@
 In the quiet village of Elmsworth, a young villager named Taren found a strange map hidden beneath the floorboards of his grandmother’s old cottage. The paper was worn and yellow, its edges curling like old leaves, and it showed a path leading deep into the Whispering Woods—a forest no one dared enter. The trees there were said to whisper secrets to those who listened too long, driving them mad. But something about the map called to Taren. With the rising sun at his back and curiosity in his heart, he took his first step toward the shadows of the unknown.
-HEAD
-Elara walked into the Whispering Woods. The trees were tall and quiet. The light from the sun was dim, and the ground was soft with moss. She felt a little scared, but also curious. Each step was slow and careful. She held the map tight and kept going.
 
+Elara walked into the Whispering Woods. The trees were tall and quiet. The light from the sun was dim, and the ground was soft with moss. She felt a little scared, but also curious. Each step was slow and careful. She held the map tight and kept going. Her friend Lysa, a skilled tracker, had insisted on coming with her despite Elara’s protests.
 
 Elara sat by the window, holding the old map in her hands. The lines were faint, but she could see a trail marked in red ink, winding deep into the forest. A small symbol near the edge caught her eye—it looked like a sun surrounded by trees. She traced the path with her finger, feeling a strange pull in her chest. No one in the village dared to go near the Whispering Woods, but something about the map made her believe she had to go.
 
 The next morning, Elara packed a loaf of bread, a flask of water, and the map into her satchel. She tied her cloak tightly and stepped outside as the first light touched the trees. The air was cool and still. Her heart beat fast, but her steps were steady. Without telling anyone, she walked past the fields and toward the dark edge of the forest, ready to follow the path that waited inside.
-add-companion

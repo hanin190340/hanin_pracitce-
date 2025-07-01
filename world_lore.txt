@@ -1,2 +1,5 @@
 echo "Ancient Runes:  
 The language of Ancient Runes predates recorded history. Inscribed on obelisks and hidden tombs, each symbol holds magical resonance. Chronomancers decode these to manipulate time itself. Their precise meaning shifts based on context, making mastery difficult but immensely powerful.
+
+Griffin of the Sky Peaks:  
+This mythical creature guards the Sky Peaks with fierce pride. Half eagle, half lion, the Griffin embodies strength and wisdom. Its feathers shimmer with celestial light, and its roar echoes through time. Only those proven worthy may pass its realm unharmed." > world_lore.txt
